@@ -275,3 +275,4 @@ C:\Proyectos\PuntoNET\AppMVC\MvcProducto\bin\Debug\net8.0\runtimes\win\lib\net7.
 C:\Proyectos\PuntoNET\AppMVC\MvcProducto\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Proyectos\PuntoNET\AppMVC\MvcProducto\obj\Debug\net8.0\MvcProducto.csproj.AssemblyReference.cache
 C:\Proyectos\PuntoNET\AppMVC\MvcProducto\obj\Debug\net8.0\MvcProdu.317419BE.Up2Date
+C:\Proyectos\PuntoNET\AppMVC\MvcProducto\obj\Debug\net8.0\MvcProducto.sourcelink.json
